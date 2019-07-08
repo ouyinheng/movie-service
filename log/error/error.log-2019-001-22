@@ -1,0 +1,52 @@
+
+    2019-001-22 16:21:10:
+    method: GET
+    url: /movie/getAuto?moviename=%E5%B0%86%E5%A4%9C
+    host: 192.168.0.141:3000
+    connection: Keep-Alive
+    cookie: undefined
+    accept: */*
+    response: {"status":404,"message":"Not Found","header":{"vary":"Origin","access-control-allow-origin":"*","access-control-expose-headers":"WWW-Authenticate,Server-Authorization"}}
+    request: {"method":"GET","url":"/movie/getAuto?moviename=%E5%B0%86%E5%A4%9C","header":{"accept":"*/*","user-agent":"Mozilla/5.0 (Linux; Android 8.1.0; MI 8 Lite Build/OPM1.171019.019; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/68.0.3440.91 Mobile Safari/537.36","connection":"Keep-Alive","charset":"UTF-8","accept-encoding":"gzip","content-type":"application/json;charset=utf-8","host":"192.168.0.141:3000"}}
+    error: 
+    TypeError: res.Substring is not a function
+    at oxios.default.get.then.res (D:\oyhworkerspace\github\reader\readerserve\src\controllers\movie\index.js:80:27)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+    
+  
+    2019-001-22 16:21:23:
+    method: GET
+    url: /movie/getAuto?moviename=%E5%B0%86%E5%A4%9C
+    host: 192.168.0.141:3000
+    connection: Keep-Alive
+    cookie: undefined
+    accept: */*
+    response: {"status":404,"message":"Not Found","header":{"vary":"Origin","access-control-allow-origin":"*","access-control-expose-headers":"WWW-Authenticate,Server-Authorization"}}
+    request: {"method":"GET","url":"/movie/getAuto?moviename=%E5%B0%86%E5%A4%9C","header":{"accept":"*/*","user-agent":"Mozilla/5.0 (Linux; Android 8.1.0; MI 8 Lite Build/OPM1.171019.019; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/68.0.3440.91 Mobile Safari/537.36","connection":"Keep-Alive","charset":"UTF-8","accept-encoding":"gzip","content-type":"application/json;charset=utf-8","host":"192.168.0.141:3000"}}
+    error: 
+    TypeError: res.Substring is not a function
+    at oxios.default.get.then.res (D:\oyhworkerspace\github\reader\readerserve\src\controllers\movie\index.js:80:27)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+    
+  
+    2019-001-22 16:21:36:
+    method: GET
+    url: /movie/getAuto?moviename=%E5%B0%86%E5%A4%9C
+    host: 192.168.0.141:3000
+    connection: Keep-Alive
+    cookie: undefined
+    accept: */*
+    response: {"status":404,"message":"Not Found","header":{"vary":"Origin","access-control-allow-origin":"*","access-control-expose-headers":"WWW-Authenticate,Server-Authorization"}}
+    request: {"method":"GET","url":"/movie/getAuto?moviename=%E5%B0%86%E5%A4%9C","header":{"accept":"*/*","user-agent":"Mozilla/5.0 (Linux; Android 8.1.0; MI 8 Lite Build/OPM1.171019.019; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/68.0.3440.91 Mobile Safari/537.36","connection":"Keep-Alive","charset":"UTF-8","accept-encoding":"gzip","content-type":"application/json;charset=utf-8","host":"192.168.0.141:3000"}}
+    error: 
+    TypeError: res.Substring is not a function
+    at oxios.default.get.then.res (D:\oyhworkerspace\github\reader\readerserve\src\controllers\movie\index.js:80:27)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+    
+  

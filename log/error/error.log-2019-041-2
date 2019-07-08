@@ -1,0 +1,774 @@
+
+    2019-041-2 11:34:51:
+    method: GET
+    url: /douban/tag
+    host: localhost:3000
+    connection: keep-alive
+    cookie: undefined
+    accept: application/json, text/plain, */*
+    response: {"status":404,"message":"Not Found","header":{"vary":"Origin","access-control-allow-origin":"*","access-control-expose-headers":"WWW-Authenticate,Server-Authorization"}}
+    request: {"method":"GET","url":"/douban/tag","header":{"host":"localhost:3000","connection":"keep-alive","accept":"application/json, text/plain, */*","origin":"http://localhost:9080","x-devtools-request-id":"3776.6","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) vuedesk/0.0.0 Chrome/59.0.3071.115 Electron/1.8.8 Safari/537.36","referer":"http://localhost:9080/","accept-encoding":"gzip, deflate","accept-language":"zh-CN"}}
+    error: 
+    ReferenceError: ctx is not defined
+    at oxios.default.get.then.res (D:\dobetter\github\movieserver\src\controllers\douban.js:29:4)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+    
+  
+    2019-041-2 11:35:22:
+    method: GET
+    url: /douban/tag
+    host: localhost:3000
+    connection: keep-alive
+    cookie: undefined
+    accept: application/json, text/plain, */*
+    response: {"status":404,"message":"Not Found","header":{"vary":"Origin","access-control-allow-origin":"*","access-control-expose-headers":"WWW-Authenticate,Server-Authorization"}}
+    request: {"method":"GET","url":"/douban/tag","header":{"host":"localhost:3000","connection":"keep-alive","accept":"application/json, text/plain, */*","origin":"http://localhost:9080","x-devtools-request-id":"12444.6","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) vuedesk/0.0.0 Chrome/59.0.3071.115 Electron/1.8.8 Safari/537.36","referer":"http://localhost:9080/","accept-encoding":"gzip, deflate","accept-language":"zh-CN"}}
+    error: 
+    ReferenceError: ctx is not defined
+    at oxios.default.get.then.res (D:\dobetter\github\movieserver\src\controllers\douban.js:29:4)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+    
+  
+    2019-041-2 12:3:13:
+    method: GET
+    url: /douban/taginfo?tag=%E7%83%AD%E9%97%A8&sort=recommend&start=0&limit=20
+    host: localhost:3000
+    connection: keep-alive
+    cookie: undefined
+    accept: application/json, text/plain, */*
+    response: {"status":404,"message":"Not Found","header":{"vary":"Origin","access-control-allow-origin":"*","access-control-expose-headers":"WWW-Authenticate,Server-Authorization"}}
+    request: {"method":"GET","url":"/douban/taginfo?tag=%E7%83%AD%E9%97%A8&sort=recommend&start=0&limit=20","header":{"host":"localhost:3000","connection":"keep-alive","accept":"application/json, text/plain, */*","origin":"http://localhost:9080","x-devtools-request-id":"10668.67","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) vuedesk/0.0.0 Chrome/59.0.3071.115 Electron/1.8.8 Safari/537.36","referer":"http://localhost:9080/","accept-encoding":"gzip, deflate","accept-language":"zh-CN"}}
+    error: 
+    SyntaxError: Unexpected token < in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at oxios.default.get.then.res (D:\dobetter\github\movieserver\src\controllers\douban.js:42:18)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+    
+  
+    2019-041-2 13:39:45:
+    method: GET
+    url: /image?url=https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2554916825.jpg
+    host: localhost:3000
+    connection: keep-alive
+    cookie: undefined
+    accept: image/webp,image/apng,image/*,*/*;q=0.8
+    response: {"status":404,"message":"Not Found","header":{"vary":"Origin","access-control-allow-origin":"*","access-control-expose-headers":"WWW-Authenticate,Server-Authorization"}}
+    request: {"method":"GET","url":"/image?url=https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2554916825.jpg","header":{"host":"localhost:3000","connection":"keep-alive","x-devtools-request-id":"11860.11","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) vuedesk/0.0.0 Chrome/59.0.3071.115 Electron/1.8.8 Safari/537.36","accept":"image/webp,image/apng,image/*,*/*;q=0.8","referer":"http://localhost:9080/","accept-encoding":"gzip, deflate","accept-language":"zh-CN"}}
+    error: 
+    SyntaxError: Unexpected token � in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at oxios.default.get.then.res (D:\dobetter\github\movieserver\src\routes\index.js:58:20)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+    
+  
+    2019-041-2 13:44:49:
+    method: GET
+    url: /image?url=https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2554916825.jpg
+    host: localhost:3000
+    connection: keep-alive
+    cookie: undefined
+    accept: image/webp,image/apng,image/*,*/*;q=0.8
+    response: {"status":404,"message":"Not Found","header":{"vary":"Origin","access-control-allow-origin":"*","access-control-expose-headers":"WWW-Authenticate,Server-Authorization"}}
+    request: {"method":"GET","url":"/image?url=https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2554916825.jpg","header":{"host":"localhost:3000","connection":"keep-alive","x-devtools-request-id":"744.52","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) vuedesk/0.0.0 Chrome/59.0.3071.115 Electron/1.8.8 Safari/537.36","accept":"image/webp,image/apng,image/*,*/*;q=0.8","referer":"http://localhost:9080/","accept-encoding":"gzip, deflate","accept-language":"zh-CN"}}
+    error: 
+    TypeError: ctx.sendFile is not a function
+    at oxios.default.get.then.res (D:\dobetter\github\movieserver\src\routes\index.js:56:9)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+    
+  
+    2019-041-2 13:45:42:
+    method: GET
+    url: /image?url=https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2552503815.jpg
+    host: localhost:3000
+    connection: keep-alive
+    cookie: undefined
+    accept: image/webp,image/apng,image/*,*/*;q=0.8
+    response: {"status":404,"message":"Not Found","header":{"vary":"Origin","access-control-allow-origin":"*","access-control-expose-headers":"WWW-Authenticate,Server-Authorization"}}
+    request: {"method":"GET","url":"/image?url=https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2552503815.jpg","header":{"host":"localhost:3000","connection":"keep-alive","x-devtools-request-id":"744.64","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) vuedesk/0.0.0 Chrome/59.0.3071.115 Electron/1.8.8 Safari/537.36","accept":"image/webp,image/apng,image/*,*/*;q=0.8","referer":"http://localhost:9080/","accept-encoding":"gzip, deflate","accept-language":"zh-CN"}}
+    error: 
+    TypeError: ctx.sendFile is not a function
+    at oxios.default.get.then.res (D:\dobetter\github\movieserver\src\routes\index.js:56:9)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+    
+  
+    2019-041-2 13:46:11:
+    method: GET
+    url: /image?url=https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2552503815.jpg
+    host: localhost:3000
+    connection: keep-alive
+    cookie: undefined
+    accept: image/webp,image/apng,image/*,*/*;q=0.8
+    response: {"status":404,"message":"Not Found","header":{"vary":"Origin","access-control-allow-origin":"*","access-control-expose-headers":"WWW-Authenticate,Server-Authorization"}}
+    request: {"method":"GET","url":"/image?url=https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2552503815.jpg","header":{"host":"localhost:3000","connection":"keep-alive","x-devtools-request-id":"5536.7","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) vuedesk/0.0.0 Chrome/59.0.3071.115 Electron/1.8.8 Safari/537.36","accept":"image/webp,image/apng,image/*,*/*;q=0.8","referer":"http://localhost:9080/","accept-encoding":"gzip, deflate","accept-language":"zh-CN"}}
+    error: 
+    TypeError: ctx.sendFile is not a function
+    at oxios.default.get.then.res (D:\dobetter\github\movieserver\src\routes\index.js:56:9)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+    
+  
+    2019-041-2 15:42:21:
+    method: GET
+    url: /image?url=https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2552503815.jpg
+    host: localhost:3000
+    connection: keep-alive
+    cookie: undefined
+    accept: image/webp,image/apng,image/*,*/*;q=0.8
+    response: {"status":200,"message":"OK","header":{"vary":"Origin","access-control-allow-origin":"*","access-control-expose-headers":"WWW-Authenticate,Server-Authorization","content-type":"application/octet-stream"}}
+    request: {"method":"GET","url":"/image?url=https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2552503815.jpg","header":{"host":"localhost:3000","connection":"keep-alive","x-devtools-request-id":"16740.7","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) vuedesk/0.0.0 Chrome/59.0.3071.115 Electron/1.8.8 Safari/537.36","accept":"image/webp,image/apng,image/*,*/*;q=0.8","referer":"http://localhost:9080/","accept-encoding":"gzip, deflate","accept-language":"zh-CN"}}
+    error: 
+    Error: Path must be a string without null bytes
+    at nullCheck (fs.js:159:14)
+    at Object.fs.open (fs.js:631:8)
+    at ReadStream.open (fs.js:1996:6)
+    at new ReadStream (fs.js:1983:10)
+    at Object.fs.createReadStream (fs.js:1931:10)
+    at oxios.default.get.then.res (D:\dobetter\github\movieserver\src\routes\index.js:57:19)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+    
+  
+    2019-041-2 15:42:54:
+    method: GET
+    url: /image?url=https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2552503815.jpg
+    host: localhost:3000
+    connection: keep-alive
+    cookie: undefined
+    accept: image/webp,image/apng,image/*,*/*;q=0.8
+    response: {"status":200,"message":"OK","header":{"vary":"Origin","access-control-allow-origin":"*","access-control-expose-headers":"WWW-Authenticate,Server-Authorization","content-type":"application/octet-stream"}}
+    request: {"method":"GET","url":"/image?url=https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2552503815.jpg","header":{"host":"localhost:3000","connection":"keep-alive","x-devtools-request-id":"16792.7","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) vuedesk/0.0.0 Chrome/59.0.3071.115 Electron/1.8.8 Safari/537.36","accept":"image/webp,image/apng,image/*,*/*;q=0.8","referer":"http://localhost:9080/","accept-encoding":"gzip, deflate","accept-language":"zh-CN"}}
+    error: 
+    Error: Path must be a string without null bytes
+    at nullCheck (fs.js:159:14)
+    at Object.fs.open (fs.js:631:8)
+    at ReadStream.open (fs.js:1996:6)
+    at new ReadStream (fs.js:1983:10)
+    at Object.fs.createReadStream (fs.js:1931:10)
+    at oxios.default.get.then.res (D:\dobetter\github\movieserver\src\routes\index.js:57:19)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+    
+  
+    2019-041-2 15:43:20:
+    method: GET
+    url: /image?url=https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2552503815.jpg
+    host: localhost:3000
+    connection: keep-alive
+    cookie: undefined
+    accept: image/webp,image/apng,image/*,*/*;q=0.8
+    response: {"status":200,"message":"OK","header":{"vary":"Origin","access-control-allow-origin":"*","access-control-expose-headers":"WWW-Authenticate,Server-Authorization","content-type":"application/octet-stream"}}
+    request: {"method":"GET","url":"/image?url=https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2552503815.jpg","header":{"host":"localhost:3000","connection":"keep-alive","x-devtools-request-id":"16912.7","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) vuedesk/0.0.0 Chrome/59.0.3071.115 Electron/1.8.8 Safari/537.36","accept":"image/webp,image/apng,image/*,*/*;q=0.8","referer":"http://localhost:9080/","accept-encoding":"gzip, deflate","accept-language":"zh-CN"}}
+    error: 
+    Error: Path must be a string without null bytes
+    at nullCheck (fs.js:159:14)
+    at Object.fs.open (fs.js:631:8)
+    at ReadStream.open (fs.js:1996:6)
+    at new ReadStream (fs.js:1983:10)
+    at Object.fs.createReadStream (fs.js:1931:10)
+    at oxios.default.get.then.res (D:\dobetter\github\movieserver\src\routes\index.js:57:19)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+    
+  
+    2019-041-2 16:2:20:
+    method: GET
+    url: /douban/movieinfo?url=[object%20Object]
+    host: localhost:3000
+    connection: keep-alive
+    cookie: undefined
+    accept: application/json, text/plain, */*
+    response: {"status":404,"message":"Not Found","header":{"vary":"Origin","access-control-allow-origin":"*","access-control-expose-headers":"WWW-Authenticate,Server-Authorization"}}
+    request: {"method":"GET","url":"/douban/movieinfo?url=[object%20Object]","header":{"host":"localhost:3000","connection":"keep-alive","accept":"application/json, text/plain, */*","origin":"http://localhost:9080","x-devtools-request-id":"9620.188","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) vuedesk/0.0.0 Chrome/59.0.3071.115 Electron/1.8.8 Safari/537.36","accept-encoding":"gzip, deflate","accept-language":"zh-CN"}}
+    error: 
+    Error: Unable to determine the domain name
+    at Object.request (https.js:229:13)
+    at Object.get (https.js:243:21)
+    at Promise (D:\dobetter\github\movieserver\src\utls\http.request.js:25:19)
+    at new Promise (<anonymous>)
+    at Function.get (D:\dobetter\github\movieserver\src\utls\http.request.js:24:16)
+    at getMovieInfo (D:\dobetter\github\movieserver\src\controllers\douban.js:7:23)
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\dobetter\github\movieserver\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\dobetter\github\movieserver\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:346:16
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at D:\dobetter\github\movieserver\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:351:31)
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:332:32)
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:332:32)
+
+    
+  
+    2019-041-2 16:2:40:
+    method: GET
+    url: /douban/movieinfo?url=https://movie.douban.com/subject/26584183/
+    host: localhost:3000
+    connection: keep-alive
+    cookie: undefined
+    accept: application/json, text/plain, */*
+    response: {"status":404,"message":"Not Found","header":{"vary":"Origin","access-control-allow-origin":"*","access-control-expose-headers":"WWW-Authenticate,Server-Authorization"}}
+    request: {"method":"GET","url":"/douban/movieinfo?url=https://movie.douban.com/subject/26584183/","header":{"host":"localhost:3000","connection":"keep-alive","accept":"application/json, text/plain, */*","origin":"http://localhost:9080","x-devtools-request-id":"9620.191","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) vuedesk/0.0.0 Chrome/59.0.3071.115 Electron/1.8.8 Safari/537.36","accept-encoding":"gzip, deflate","accept-language":"zh-CN"}}
+    error: 
+    Error: Unable to determine the domain name
+    at Object.request (https.js:229:13)
+    at Object.get (https.js:243:21)
+    at Promise (D:\dobetter\github\movieserver\src\utls\http.request.js:25:19)
+    at new Promise (<anonymous>)
+    at Function.get (D:\dobetter\github\movieserver\src\utls\http.request.js:24:16)
+    at getMovieInfo (D:\dobetter\github\movieserver\src\controllers\douban.js:7:23)
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\dobetter\github\movieserver\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\dobetter\github\movieserver\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:346:16
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at D:\dobetter\github\movieserver\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:351:31)
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:332:32)
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:332:32)
+
+    
+  
+    2019-041-2 18:24:19:
+    method: GET
+    url: /real?url=javascript:;
+    host: localhost:3000
+    connection: keep-alive
+    cookie: undefined
+    accept: application/json, text/plain, */*
+    response: {"status":404,"message":"Not Found","header":{"vary":"Origin","access-control-allow-origin":"*","access-control-expose-headers":"WWW-Authenticate,Server-Authorization"}}
+    request: {"method":"GET","url":"/real?url=javascript:;","header":{"host":"localhost:3000","connection":"keep-alive","accept":"application/json, text/plain, */*","origin":"http://localhost:9080","x-devtools-request-id":"18528.646","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) vuedesk/0.0.0 Chrome/59.0.3071.115 Electron/1.8.8 Safari/537.36","accept-encoding":"gzip, deflate","accept-language":"zh-CN"}}
+    error: 
+    Error: Unable to determine the domain name
+    at Object.request (https.js:229:13)
+    at Object.get (https.js:243:21)
+    at Promise (D:\dobetter\github\movieserver\src\utls\http.request.js:25:19)
+    at new Promise (<anonymous>)
+    at Function.get (D:\dobetter\github\movieserver\src\utls\http.request.js:24:16)
+    at router.get (D:\dobetter\github\movieserver\src\routes\index.js:49:23)
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\dobetter\github\movieserver\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\dobetter\github\movieserver\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:346:16
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at D:\dobetter\github\movieserver\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:351:31)
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at app.use (D:\dobetter\github\movieserver\app.js:45:9)
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at views (D:\dobetter\github\movieserver\node_modules\_koa-views@5.2.1@koa-views\lib\index.js:61:12)
+
+    
+  
+    2019-041-2 18:46:47:
+    method: GET
+    url: /movie/search?moviename=%E5%80%9A%E5%A4%A9%E5%B1%A0%E9%BE%99%E8%AE%B0
+    host: localhost:3000
+    connection: keep-alive
+    cookie: undefined
+    accept: application/json, text/plain, */*
+    response: {"status":404,"message":"Not Found","header":{"vary":"Origin","access-control-allow-origin":"*","access-control-expose-headers":"WWW-Authenticate,Server-Authorization"}}
+    request: {"method":"GET","url":"/movie/search?moviename=%E5%80%9A%E5%A4%A9%E5%B1%A0%E9%BE%99%E8%AE%B0","header":{"host":"localhost:3000","connection":"keep-alive","accept":"application/json, text/plain, */*","origin":"http://localhost:9080","x-devtools-request-id":"18528.1059","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) vuedesk/0.0.0 Chrome/59.0.3071.115 Electron/1.8.8 Safari/537.36","accept-encoding":"gzip, deflate","accept-language":"zh-CN"}}
+    error: 
+    TypeError: Cannot read property 'text' of undefined
+    at Node.$.each (D:\dobetter\github\movieserver\src\controllers\movie\index.js:76:60)
+    at initialize.exports.each (D:\dobetter\github\movieserver\node_modules\_cheerio@1.0.0-rc.3@cheerio\lib\api\traversing.js:300:24)
+    at oxios.default.get.then.res (D:\dobetter\github\movieserver\src\controllers\movie\index.js:61:25)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+    
+  
+    2019-041-2 18:48:5:
+    method: GET
+    url: /movie/search?moviename=%E5%80%9A%E5%A4%A9%E5%B1%A0%E9%BE%99%E8%AE%B0
+    host: localhost:3000
+    connection: keep-alive
+    cookie: undefined
+    accept: application/json, text/plain, */*
+    response: {"status":404,"message":"Not Found","header":{"vary":"Origin","access-control-allow-origin":"*","access-control-expose-headers":"WWW-Authenticate,Server-Authorization"}}
+    request: {"method":"GET","url":"/movie/search?moviename=%E5%80%9A%E5%A4%A9%E5%B1%A0%E9%BE%99%E8%AE%B0","header":{"host":"localhost:3000","connection":"keep-alive","accept":"application/json, text/plain, */*","origin":"http://localhost:9080","x-devtools-request-id":"18528.1143","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) vuedesk/0.0.0 Chrome/59.0.3071.115 Electron/1.8.8 Safari/537.36","accept-encoding":"gzip, deflate","accept-language":"zh-CN"}}
+    error: 
+    TypeError: Cannot read property 'find' of undefined
+    at Node.$.each (D:\dobetter\github\movieserver\src\controllers\movie\index.js:76:54)
+    at initialize.exports.each (D:\dobetter\github\movieserver\node_modules\_cheerio@1.0.0-rc.3@cheerio\lib\api\traversing.js:300:24)
+    at oxios.default.get.then.res (D:\dobetter\github\movieserver\src\controllers\movie\index.js:61:25)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+    
+  
+    2019-041-2 18:56:57:
+    method: GET
+    url: /movie/search?moviename=%E6%9D%83%E5%8A%9B%E7%9A%84%E6%B8%B8%E6%88%8F%20%E7%AC%AC%E5%85%AB%E5%AD%A3
+    host: localhost:3000
+    connection: keep-alive
+    cookie: undefined
+    accept: application/json, text/plain, */*
+    response: {"status":404,"message":"Not Found","header":{"vary":"Origin","access-control-allow-origin":"*","access-control-expose-headers":"WWW-Authenticate,Server-Authorization"}}
+    request: {"method":"GET","url":"/movie/search?moviename=%E6%9D%83%E5%8A%9B%E7%9A%84%E6%B8%B8%E6%88%8F%20%E7%AC%AC%E5%85%AB%E5%AD%A3","header":{"host":"localhost:3000","connection":"keep-alive","accept":"application/json, text/plain, */*","origin":"http://localhost:9080","x-devtools-request-id":"18528.1528","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) vuedesk/0.0.0 Chrome/59.0.3071.115 Electron/1.8.8 Safari/537.36","accept-encoding":"gzip, deflate","accept-language":"zh-CN"}}
+    error: 
+    TypeError: $(...).find(...)[0].find is not a function
+    at Node.$.each (D:\dobetter\github\movieserver\src\controllers\movie\index.js:63:41)
+    at initialize.exports.each (D:\dobetter\github\movieserver\node_modules\_cheerio@1.0.0-rc.3@cheerio\lib\api\traversing.js:300:24)
+    at oxios.default.get.then.res (D:\dobetter\github\movieserver\src\controllers\movie\index.js:61:59)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+    
+  
+    2019-041-2 18:57:23:
+    method: GET
+    url: /movie/search?moviename=%E6%9D%83%E5%8A%9B%E7%9A%84%E6%B8%B8%E6%88%8F%20%E7%AC%AC%E5%85%AB%E5%AD%A3
+    host: localhost:3000
+    connection: keep-alive
+    cookie: undefined
+    accept: application/json, text/plain, */*
+    response: {"status":404,"message":"Not Found","header":{"vary":"Origin","access-control-allow-origin":"*","access-control-expose-headers":"WWW-Authenticate,Server-Authorization"}}
+    request: {"method":"GET","url":"/movie/search?moviename=%E6%9D%83%E5%8A%9B%E7%9A%84%E6%B8%B8%E6%88%8F%20%E7%AC%AC%E5%85%AB%E5%AD%A3","header":{"host":"localhost:3000","connection":"keep-alive","accept":"application/json, text/plain, */*","origin":"http://localhost:9080","x-devtools-request-id":"18528.1571","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) vuedesk/0.0.0 Chrome/59.0.3071.115 Electron/1.8.8 Safari/537.36","accept-encoding":"gzip, deflate","accept-language":"zh-CN"}}
+    error: 
+    TypeError: $(...).find(...)[0].find is not a function
+    at Node.$.each (D:\dobetter\github\movieserver\src\controllers\movie\index.js:63:41)
+    at initialize.exports.each (D:\dobetter\github\movieserver\node_modules\_cheerio@1.0.0-rc.3@cheerio\lib\api\traversing.js:300:24)
+    at oxios.default.get.then.res (D:\dobetter\github\movieserver\src\controllers\movie\index.js:61:59)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+    
+  
+    2019-041-2 19:5:23:
+    method: GET
+    url: /real?url=//www.mgtv.com/b/325542/5376083.html?fpa=se
+    host: localhost:3000
+    connection: keep-alive
+    cookie: undefined
+    accept: application/json, text/plain, */*
+    response: {"status":404,"message":"Not Found","header":{"vary":"Origin","access-control-allow-origin":"*","access-control-expose-headers":"WWW-Authenticate,Server-Authorization"}}
+    request: {"method":"GET","url":"/real?url=//www.mgtv.com/b/325542/5376083.html?fpa=se","header":{"host":"localhost:3000","connection":"keep-alive","accept":"application/json, text/plain, */*","origin":"http://localhost:9080","x-devtools-request-id":"18528.2225","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) vuedesk/0.0.0 Chrome/59.0.3071.115 Electron/1.8.8 Safari/537.36","accept-encoding":"gzip, deflate","accept-language":"zh-CN"}}
+    error: 
+    Error: Unable to determine the domain name
+    at Object.request (https.js:229:13)
+    at Object.get (https.js:243:21)
+    at Promise (D:\dobetter\github\movieserver\src\utls\http.request.js:25:19)
+    at new Promise (<anonymous>)
+    at Function.get (D:\dobetter\github\movieserver\src\utls\http.request.js:24:16)
+    at router.get (D:\dobetter\github\movieserver\src\routes\index.js:49:23)
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\dobetter\github\movieserver\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\dobetter\github\movieserver\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:346:16
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at D:\dobetter\github\movieserver\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:351:31)
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at app.use (D:\dobetter\github\movieserver\app.js:45:9)
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at views (D:\dobetter\github\movieserver\node_modules\_koa-views@5.2.1@koa-views\lib\index.js:61:12)
+
+    
+  
+    2019-041-2 19:6:39:
+    method: GET
+    url: /real?url=//www.mgtv.com/b/325542/5376083.html?fpa=se
+    host: localhost:3000
+    connection: keep-alive
+    cookie: undefined
+    accept: application/json, text/plain, */*
+    response: {"status":404,"message":"Not Found","header":{"vary":"Origin","access-control-allow-origin":"*","access-control-expose-headers":"WWW-Authenticate,Server-Authorization"}}
+    request: {"method":"GET","url":"/real?url=//www.mgtv.com/b/325542/5376083.html?fpa=se","header":{"host":"localhost:3000","connection":"keep-alive","accept":"application/json, text/plain, */*","origin":"http://localhost:9080","x-devtools-request-id":"18528.2226","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) vuedesk/0.0.0 Chrome/59.0.3071.115 Electron/1.8.8 Safari/537.36","accept-encoding":"gzip, deflate","accept-language":"zh-CN"}}
+    error: 
+    Error: Unable to determine the domain name
+    at Object.request (https.js:229:13)
+    at Object.get (https.js:243:21)
+    at Promise (D:\dobetter\github\movieserver\src\utls\http.request.js:25:19)
+    at new Promise (<anonymous>)
+    at Function.get (D:\dobetter\github\movieserver\src\utls\http.request.js:24:16)
+    at router.get (D:\dobetter\github\movieserver\src\routes\index.js:49:23)
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\dobetter\github\movieserver\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\dobetter\github\movieserver\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:346:16
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at D:\dobetter\github\movieserver\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:351:31)
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at app.use (D:\dobetter\github\movieserver\app.js:45:9)
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at views (D:\dobetter\github\movieserver\node_modules\_koa-views@5.2.1@koa-views\lib\index.js:61:12)
+
+    
+  
+    2019-041-2 19:7:44:
+    method: GET
+    url: /real?url=//www.mgtv.com/b/325542/5376083.html?fpa=se
+    host: localhost:3000
+    connection: keep-alive
+    cookie: undefined
+    accept: application/json, text/plain, */*
+    response: {"status":404,"message":"Not Found","header":{"vary":"Origin","access-control-allow-origin":"*","access-control-expose-headers":"WWW-Authenticate,Server-Authorization"}}
+    request: {"method":"GET","url":"/real?url=//www.mgtv.com/b/325542/5376083.html?fpa=se","header":{"host":"localhost:3000","connection":"keep-alive","accept":"application/json, text/plain, */*","origin":"http://localhost:9080","x-devtools-request-id":"18528.2271","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) vuedesk/0.0.0 Chrome/59.0.3071.115 Electron/1.8.8 Safari/537.36","accept-encoding":"gzip, deflate","accept-language":"zh-CN"}}
+    error: 
+    Error: Unable to determine the domain name
+    at Object.request (https.js:229:13)
+    at Object.get (https.js:243:21)
+    at Promise (D:\dobetter\github\movieserver\src\utls\http.request.js:25:19)
+    at new Promise (<anonymous>)
+    at Function.get (D:\dobetter\github\movieserver\src\utls\http.request.js:24:16)
+    at router.get (D:\dobetter\github\movieserver\src\routes\index.js:49:23)
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\dobetter\github\movieserver\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\dobetter\github\movieserver\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:346:16
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at D:\dobetter\github\movieserver\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:351:31)
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at app.use (D:\dobetter\github\movieserver\app.js:45:9)
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at views (D:\dobetter\github\movieserver\node_modules\_koa-views@5.2.1@koa-views\lib\index.js:61:12)
+
+    
+  
+    2019-041-2 19:7:58:
+    method: GET
+    url: /real?url=//www.mgtv.com/b/325542/5376083.html?fpa=se
+    host: localhost:3000
+    connection: keep-alive
+    cookie: undefined
+    accept: application/json, text/plain, */*
+    response: {"status":404,"message":"Not Found","header":{"vary":"Origin","access-control-allow-origin":"*","access-control-expose-headers":"WWW-Authenticate,Server-Authorization"}}
+    request: {"method":"GET","url":"/real?url=//www.mgtv.com/b/325542/5376083.html?fpa=se","header":{"host":"localhost:3000","connection":"keep-alive","accept":"application/json, text/plain, */*","origin":"http://localhost:9080","x-devtools-request-id":"18528.2315","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) vuedesk/0.0.0 Chrome/59.0.3071.115 Electron/1.8.8 Safari/537.36","accept-encoding":"gzip, deflate","accept-language":"zh-CN"}}
+    error: 
+    Error: Unable to determine the domain name
+    at Object.request (https.js:229:13)
+    at Object.get (https.js:243:21)
+    at Promise (D:\dobetter\github\movieserver\src\utls\http.request.js:25:19)
+    at new Promise (<anonymous>)
+    at Function.get (D:\dobetter\github\movieserver\src\utls\http.request.js:24:16)
+    at router.get (D:\dobetter\github\movieserver\src\routes\index.js:49:23)
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\dobetter\github\movieserver\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\dobetter\github\movieserver\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:346:16
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at D:\dobetter\github\movieserver\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:351:31)
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at app.use (D:\dobetter\github\movieserver\app.js:45:9)
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at views (D:\dobetter\github\movieserver\node_modules\_koa-views@5.2.1@koa-views\lib\index.js:61:12)
+
+    
+  
+    2019-041-2 19:10:6:
+    method: GET
+    url: /real?url=//www.mgtv.com/b/325542/5376083.html?fpa=se
+    host: localhost:3000
+    connection: keep-alive
+    cookie: undefined
+    accept: application/json, text/plain, */*
+    response: {"status":404,"message":"Not Found","header":{"vary":"Origin","access-control-allow-origin":"*","access-control-expose-headers":"WWW-Authenticate,Server-Authorization"}}
+    request: {"method":"GET","url":"/real?url=//www.mgtv.com/b/325542/5376083.html?fpa=se","header":{"host":"localhost:3000","connection":"keep-alive","accept":"application/json, text/plain, */*","origin":"http://localhost:9080","x-devtools-request-id":"18528.2535","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) vuedesk/0.0.0 Chrome/59.0.3071.115 Electron/1.8.8 Safari/537.36","accept-encoding":"gzip, deflate","accept-language":"zh-CN"}}
+    error: 
+    Error: Unable to determine the domain name
+    at Object.request (https.js:229:13)
+    at Object.get (https.js:243:21)
+    at Promise (D:\dobetter\github\movieserver\src\utls\http.request.js:25:19)
+    at new Promise (<anonymous>)
+    at Function.get (D:\dobetter\github\movieserver\src\utls\http.request.js:24:16)
+    at router.get (D:\dobetter\github\movieserver\src\routes\index.js:49:23)
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\dobetter\github\movieserver\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\dobetter\github\movieserver\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:346:16
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at D:\dobetter\github\movieserver\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:351:31)
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at app.use (D:\dobetter\github\movieserver\app.js:45:9)
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at views (D:\dobetter\github\movieserver\node_modules\_koa-views@5.2.1@koa-views\lib\index.js:61:12)
+
+    
+  
+    2019-041-2 19:18:4:
+    method: GET
+    url: /real?url=//www.mgtv.com/h/328029.html?fpa=se
+    host: localhost:3000
+    connection: keep-alive
+    cookie: undefined
+    accept: application/json, text/plain, */*
+    response: {"status":404,"message":"Not Found","header":{"vary":"Origin","access-control-allow-origin":"*","access-control-expose-headers":"WWW-Authenticate,Server-Authorization"}}
+    request: {"method":"GET","url":"/real?url=//www.mgtv.com/h/328029.html?fpa=se","header":{"host":"localhost:3000","connection":"keep-alive","accept":"application/json, text/plain, */*","origin":"http://localhost:9080","x-devtools-request-id":"18528.2788","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) vuedesk/0.0.0 Chrome/59.0.3071.115 Electron/1.8.8 Safari/537.36","accept-encoding":"gzip, deflate","accept-language":"zh-CN"}}
+    error: 
+    Error: Unable to determine the domain name
+    at Object.request (https.js:229:13)
+    at Object.get (https.js:243:21)
+    at Promise (D:\dobetter\github\movieserver\src\utls\http.request.js:25:19)
+    at new Promise (<anonymous>)
+    at Function.get (D:\dobetter\github\movieserver\src\utls\http.request.js:24:16)
+    at router.get (D:\dobetter\github\movieserver\src\routes\index.js:49:23)
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\dobetter\github\movieserver\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\dobetter\github\movieserver\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:346:16
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at D:\dobetter\github\movieserver\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:351:31)
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at app.use (D:\dobetter\github\movieserver\app.js:45:9)
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at views (D:\dobetter\github\movieserver\node_modules\_koa-views@5.2.1@koa-views\lib\index.js:61:12)
+
+    
+  
+    2019-041-2 22:5:21:
+    method: GET
+    url: /real?url=//www.mgtv.com/b/326018/4586760.html?fpa=se
+    host: localhost:3000
+    connection: keep-alive
+    cookie: undefined
+    accept: application/json, text/plain, */*
+    response: {"status":404,"message":"Not Found","header":{"vary":"Origin","access-control-allow-origin":"*","access-control-expose-headers":"WWW-Authenticate,Server-Authorization"}}
+    request: {"method":"GET","url":"/real?url=//www.mgtv.com/b/326018/4586760.html?fpa=se","header":{"host":"localhost:3000","connection":"keep-alive","accept":"application/json, text/plain, */*","origin":"http://localhost:9080","x-devtools-request-id":"12620.1092","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) vuedesk/0.0.0 Chrome/59.0.3071.115 Electron/1.8.8 Safari/537.36","accept-encoding":"gzip, deflate","accept-language":"zh-CN"}}
+    error: 
+    Error: Unable to determine the domain name
+    at Object.request (https.js:229:13)
+    at Object.get (https.js:243:21)
+    at Promise (D:\dobetter\github\movieserver\src\utls\http.request.js:25:19)
+    at new Promise (<anonymous>)
+    at Function.get (D:\dobetter\github\movieserver\src\utls\http.request.js:24:16)
+    at router.get (D:\dobetter\github\movieserver\src\routes\index.js:49:23)
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\dobetter\github\movieserver\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\dobetter\github\movieserver\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:346:16
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at D:\dobetter\github\movieserver\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:351:31)
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at app.use (D:\dobetter\github\movieserver\app.js:45:9)
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at views (D:\dobetter\github\movieserver\node_modules\_koa-views@5.2.1@koa-views\lib\index.js:61:12)
+
+    
+  
+    2019-041-2 22:12:40:
+    method: GET
+    url: /movie/sourth?sourth=qq&moviename=%E6%9D%83%E5%8A%9B%E7%9A%84%E6%B8%B8%E6%88%8F%20%E7%AC%AC%E5%85%AB%E5%AD%A3
+    host: localhost:3000
+    connection: keep-alive
+    cookie: undefined
+    accept: application/json, text/plain, */*
+    response: {"status":404,"message":"Not Found","header":{"vary":"Origin","access-control-allow-origin":"*","access-control-expose-headers":"WWW-Authenticate,Server-Authorization"}}
+    request: {"method":"GET","url":"/movie/sourth?sourth=qq&moviename=%E6%9D%83%E5%8A%9B%E7%9A%84%E6%B8%B8%E6%88%8F%20%E7%AC%AC%E5%85%AB%E5%AD%A3","header":{"host":"localhost:3000","connection":"keep-alive","accept":"application/json, text/plain, */*","origin":"http://localhost:9080","x-devtools-request-id":"12620.1437","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) vuedesk/0.0.0 Chrome/59.0.3071.115 Electron/1.8.8 Safari/537.36","accept-encoding":"gzip, deflate","accept-language":"zh-CN"}}
+    error: 
+    TypeError: Cannot read property 'getMovieUrl' of undefined
+    at getMovieInfo (D:\dobetter\github\movieserver\src\controllers\movie\index.js:9:9)
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\dobetter\github\movieserver\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\dobetter\github\movieserver\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:346:16
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at D:\dobetter\github\movieserver\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:351:31)
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:332:32)
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at app.use (D:\dobetter\github\movieserver\app.js:45:9)
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at views (D:\dobetter\github\movieserver\node_modules\_koa-views@5.2.1@koa-views\lib\index.js:61:12)
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at send.then.done (D:\dobetter\github\movieserver\node_modules\_koa-static@3.0.0@koa-static\index.js:43:20)
+    at <anonymous>
+
+    
+  
+    2019-041-2 22:12:48:
+    method: GET
+    url: /movie/sourth?sourth=mg&moviename=%E6%9D%83%E5%8A%9B%E7%9A%84%E6%B8%B8%E6%88%8F%20%E7%AC%AC%E5%85%AB%E5%AD%A3
+    host: localhost:3000
+    connection: keep-alive
+    cookie: undefined
+    accept: application/json, text/plain, */*
+    response: {"status":404,"message":"Not Found","header":{"vary":"Origin","access-control-allow-origin":"*","access-control-expose-headers":"WWW-Authenticate,Server-Authorization"}}
+    request: {"method":"GET","url":"/movie/sourth?sourth=mg&moviename=%E6%9D%83%E5%8A%9B%E7%9A%84%E6%B8%B8%E6%88%8F%20%E7%AC%AC%E5%85%AB%E5%AD%A3","header":{"host":"localhost:3000","connection":"keep-alive","accept":"application/json, text/plain, */*","origin":"http://localhost:9080","x-devtools-request-id":"12620.1438","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) vuedesk/0.0.0 Chrome/59.0.3071.115 Electron/1.8.8 Safari/537.36","accept-encoding":"gzip, deflate","accept-language":"zh-CN"}}
+    error: 
+    TypeError: Cannot read property 'getMGMovuel' of undefined
+    at getMovieInfo (D:\dobetter\github\movieserver\src\controllers\movie\index.js:11:9)
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\dobetter\github\movieserver\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\dobetter\github\movieserver\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:346:16
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at D:\dobetter\github\movieserver\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:351:31)
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:332:32)
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at app.use (D:\dobetter\github\movieserver\app.js:45:9)
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at views (D:\dobetter\github\movieserver\node_modules\_koa-views@5.2.1@koa-views\lib\index.js:61:12)
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at send.then.done (D:\dobetter\github\movieserver\node_modules\_koa-static@3.0.0@koa-static\index.js:43:20)
+    at <anonymous>
+
+    
+  
+    2019-041-2 22:12:56:
+    method: GET
+    url: /movie/sourth?sourth=qq&moviename=%E6%9D%83%E5%8A%9B%E7%9A%84%E6%B8%B8%E6%88%8F%20%E7%AC%AC%E5%85%AB%E5%AD%A3
+    host: localhost:3000
+    connection: keep-alive
+    cookie: undefined
+    accept: application/json, text/plain, */*
+    response: {"status":404,"message":"Not Found","header":{"vary":"Origin","access-control-allow-origin":"*","access-control-expose-headers":"WWW-Authenticate,Server-Authorization"}}
+    request: {"method":"GET","url":"/movie/sourth?sourth=qq&moviename=%E6%9D%83%E5%8A%9B%E7%9A%84%E6%B8%B8%E6%88%8F%20%E7%AC%AC%E5%85%AB%E5%AD%A3","header":{"host":"localhost:3000","connection":"keep-alive","accept":"application/json, text/plain, */*","origin":"http://localhost:9080","x-devtools-request-id":"12620.1439","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) vuedesk/0.0.0 Chrome/59.0.3071.115 Electron/1.8.8 Safari/537.36","accept-encoding":"gzip, deflate","accept-language":"zh-CN"}}
+    error: 
+    TypeError: Cannot read property 'getMovieUrl' of undefined
+    at getMovieInfo (D:\dobetter\github\movieserver\src\controllers\movie\index.js:9:9)
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\dobetter\github\movieserver\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\dobetter\github\movieserver\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:346:16
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at D:\dobetter\github\movieserver\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:351:31)
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:332:32)
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at app.use (D:\dobetter\github\movieserver\app.js:45:9)
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at views (D:\dobetter\github\movieserver\node_modules\_koa-views@5.2.1@koa-views\lib\index.js:61:12)
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at send.then.done (D:\dobetter\github\movieserver\node_modules\_koa-static@3.0.0@koa-static\index.js:43:20)
+    at <anonymous>
+
+    
+  
+    2019-041-2 22:13:18:
+    method: GET
+    url: /movie/sourth?sourth=mg&moviename=%E6%9D%83%E5%8A%9B%E7%9A%84%E6%B8%B8%E6%88%8F%20%E7%AC%AC%E5%85%AB%E5%AD%A3
+    host: localhost:3000
+    connection: keep-alive
+    cookie: undefined
+    accept: application/json, text/plain, */*
+    response: {"status":404,"message":"Not Found","header":{"vary":"Origin","access-control-allow-origin":"*","access-control-expose-headers":"WWW-Authenticate,Server-Authorization"}}
+    request: {"method":"GET","url":"/movie/sourth?sourth=mg&moviename=%E6%9D%83%E5%8A%9B%E7%9A%84%E6%B8%B8%E6%88%8F%20%E7%AC%AC%E5%85%AB%E5%AD%A3","header":{"host":"localhost:3000","connection":"keep-alive","accept":"application/json, text/plain, */*","origin":"http://localhost:9080","x-devtools-request-id":"12620.1440","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) vuedesk/0.0.0 Chrome/59.0.3071.115 Electron/1.8.8 Safari/537.36","accept-encoding":"gzip, deflate","accept-language":"zh-CN"}}
+    error: 
+    ReferenceError: getMGMovuel is not defined
+    at getMovieInfo (D:\dobetter\github\movieserver\src\controllers\movie\index.js:11:4)
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\dobetter\github\movieserver\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\dobetter\github\movieserver\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:346:16
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at D:\dobetter\github\movieserver\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:351:31)
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:332:32)
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at app.use (D:\dobetter\github\movieserver\app.js:45:9)
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at views (D:\dobetter\github\movieserver\node_modules\_koa-views@5.2.1@koa-views\lib\index.js:61:12)
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at send.then.done (D:\dobetter\github\movieserver\node_modules\_koa-static@3.0.0@koa-static\index.js:43:20)
+    at <anonymous>
+
+    
+  
+    2019-041-2 22:14:34:
+    method: GET
+    url: /movie/sourth?sourth=qq&moviename=%E6%9D%83%E5%8A%9B%E7%9A%84%E6%B8%B8%E6%88%8F%20%E7%AC%AC%E5%85%AB%E5%AD%A3
+    host: localhost:3000
+    connection: keep-alive
+    cookie: undefined
+    accept: application/json, text/plain, */*
+    response: {"status":404,"message":"Not Found","header":{"vary":"Origin","access-control-allow-origin":"*","access-control-expose-headers":"WWW-Authenticate,Server-Authorization"}}
+    request: {"method":"GET","url":"/movie/sourth?sourth=qq&moviename=%E6%9D%83%E5%8A%9B%E7%9A%84%E6%B8%B8%E6%88%8F%20%E7%AC%AC%E5%85%AB%E5%AD%A3","header":{"host":"localhost:3000","connection":"keep-alive","accept":"application/json, text/plain, */*","origin":"http://localhost:9080","x-devtools-request-id":"12620.1441","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) vuedesk/0.0.0 Chrome/59.0.3071.115 Electron/1.8.8 Safari/537.36","accept-encoding":"gzip, deflate","accept-language":"zh-CN"}}
+    error: 
+    ReferenceError: getMovieUrl is not defined
+    at getMovieInfo (D:\dobetter\github\movieserver\src\controllers\movie\index.js:9:4)
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\dobetter\github\movieserver\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\dobetter\github\movieserver\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:346:16
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at D:\dobetter\github\movieserver\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:351:31)
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:332:32)
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at app.use (D:\dobetter\github\movieserver\app.js:45:9)
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at views (D:\dobetter\github\movieserver\node_modules\_koa-views@5.2.1@koa-views\lib\index.js:61:12)
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at send.then.done (D:\dobetter\github\movieserver\node_modules\_koa-static@3.0.0@koa-static\index.js:43:20)
+    at <anonymous>
+
+    
+  
+    2019-041-2 22:16:39:
+    method: GET
+    url: /movie/sourth?sourth=mg&moviename=%E6%9D%83%E5%8A%9B%E7%9A%84%E6%B8%B8%E6%88%8F%20%E7%AC%AC%E5%85%AB%E5%AD%A3
+    host: localhost:3000
+    connection: keep-alive
+    cookie: undefined
+    accept: application/json, text/plain, */*
+    response: {"status":404,"message":"Not Found","header":{"vary":"Origin","access-control-allow-origin":"*","access-control-expose-headers":"WWW-Authenticate,Server-Authorization"}}
+    request: {"method":"GET","url":"/movie/sourth?sourth=mg&moviename=%E6%9D%83%E5%8A%9B%E7%9A%84%E6%B8%B8%E6%88%8F%20%E7%AC%AC%E5%85%AB%E5%AD%A3","header":{"host":"localhost:3000","connection":"keep-alive","accept":"application/json, text/plain, */*","origin":"http://localhost:9080","x-devtools-request-id":"12620.1444","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) vuedesk/0.0.0 Chrome/59.0.3071.115 Electron/1.8.8 Safari/537.36","accept-encoding":"gzip, deflate","accept-language":"zh-CN"}}
+    error: 
+    TypeError: Cannot read property 'getMGMovuel' of undefined
+    at getMovieInfo (D:\dobetter\github\movieserver\src\controllers\movie\index.js:12:27)
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\dobetter\github\movieserver\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\dobetter\github\movieserver\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:346:16
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at D:\dobetter\github\movieserver\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:351:31)
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:332:32)
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at app.use (D:\dobetter\github\movieserver\app.js:45:9)
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at views (D:\dobetter\github\movieserver\node_modules\_koa-views@5.2.1@koa-views\lib\index.js:61:12)
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at send.then.done (D:\dobetter\github\movieserver\node_modules\_koa-static@3.0.0@koa-static\index.js:43:20)
+    at <anonymous>
+
+    
+  
+    2019-041-2 23:21:38:
+    method: GET
+    url: /real?url=//www.iqiyi.com/v_19rrjd76hk.html?vfm=m_294_wgtv&fv=8a402b2cf5aa3a17&fpa=se
+    host: localhost:3000
+    connection: keep-alive
+    cookie: undefined
+    accept: application/json, text/plain, */*
+    response: {"status":404,"message":"Not Found","header":{"vary":"Origin","access-control-allow-origin":"*","access-control-expose-headers":"WWW-Authenticate,Server-Authorization"}}
+    request: {"method":"GET","url":"/real?url=//www.iqiyi.com/v_19rrjd76hk.html?vfm=m_294_wgtv&fv=8a402b2cf5aa3a17&fpa=se","header":{"host":"localhost:3000","connection":"keep-alive","accept":"application/json, text/plain, */*","origin":"http://localhost:9080","x-devtools-request-id":"12620.2104","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) vuedesk/0.0.0 Chrome/59.0.3071.115 Electron/1.8.8 Safari/537.36","accept-encoding":"gzip, deflate","accept-language":"zh-CN"}}
+    error: 
+    Error: Unable to determine the domain name
+    at Object.request (https.js:229:13)
+    at Object.get (https.js:243:21)
+    at Promise (D:\dobetter\github\movieserver\src\utls\http.request.js:25:19)
+    at new Promise (<anonymous>)
+    at Function.get (D:\dobetter\github\movieserver\src\utls\http.request.js:24:16)
+    at router.get (D:\dobetter\github\movieserver\src\routes\index.js:49:23)
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\dobetter\github\movieserver\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\dobetter\github\movieserver\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:346:16
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at D:\dobetter\github\movieserver\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:351:31)
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at app.use (D:\dobetter\github\movieserver\app.js:45:9)
+    at dispatch (D:\dobetter\github\movieserver\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at views (D:\dobetter\github\movieserver\node_modules\_koa-views@5.2.1@koa-views\lib\index.js:61:12)
+
+    
+  

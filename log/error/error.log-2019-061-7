@@ -1,0 +1,31 @@
+
+    2019-061-7 16:36:37:
+    method: GET
+    url: /real?url=undefined
+    host: localhost:3000
+    connection: keep-alive
+    cookie: undefined
+    accept: application/json, text/plain, */*
+    response: {"status":404,"message":"Not Found","header":{"vary":"Origin","access-control-allow-origin":"*","access-control-expose-headers":"WWW-Authenticate,Server-Authorization"}}
+    request: {"method":"GET","url":"/real?url=undefined","header":{"host":"localhost:3000","connection":"keep-alive","accept":"application/json, text/plain, */*","origin":"http://localhost:9080","x-devtools-request-id":"19052.263","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) vuedesk/0.0.0 Chrome/59.0.3071.115 Electron/1.8.8 Safari/537.36","accept-encoding":"gzip, deflate","accept-language":"zh-CN"}}
+    error: 
+    TypeError [ERR_INVALID_DOMAIN_NAME]: Unable to determine the domain name
+    at request (https.js:266:13)
+    at Object.get (https.js:285:15)
+    at Promise (E:\dobetter\github\movieserver\src\utls\http.request.js:25:19)
+    at new Promise (<anonymous>)
+    at Function.get (E:\dobetter\github\movieserver\src\utls\http.request.js:24:16)
+    at router.get (E:\dobetter\github\movieserver\src\routes\index.js:49:23)
+    at dispatch (E:\dobetter\github\movieserver\node_modules\koa-compose\index.js:44:32)
+    at next (E:\dobetter\github\movieserver\node_modules\koa-compose\index.js:45:18)
+    at E:\dobetter\github\movieserver\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (E:\dobetter\github\movieserver\node_modules\koa-compose\index.js:44:32)
+    at E:\dobetter\github\movieserver\node_modules\koa-compose\index.js:36:12
+    at dispatch (E:\dobetter\github\movieserver\node_modules\koa-router\lib\router.js:351:31)
+    at dispatch (E:\dobetter\github\movieserver\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at app.use (E:\dobetter\github\movieserver\app.js:45:9)
+    at dispatch (E:\dobetter\github\movieserver\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at views (E:\dobetter\github\movieserver\node_modules\koa-views\lib\index.js:61:12)
+
+    
+  

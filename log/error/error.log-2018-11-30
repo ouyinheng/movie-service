@@ -1,0 +1,151 @@
+
+    2018-11-30 22:25:34:
+    method: GET
+    url: /reader/autocomplete?query=%u4E00n
+    host: 192.168.70.1:3000
+    connection: keep-alive
+    cookie: undefined
+    accept: application/json, text/plain, */*
+    response: {"status":404,"message":"Not Found","header":{"vary":"Origin","access-control-allow-origin":"*","access-control-expose-headers":"WWW-Authenticate,Server-Authorization"}}
+    request: {"method":"GET","url":"/reader/autocomplete?query=%u4E00n","header":{"host":"192.168.70.1:3000","connection":"keep-alive","accept":"application/json, text/plain, */*","origin":"http://192.168.70.1:4200","user-agent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Mobile Safari/537.36","referer":"http://192.168.70.1:4200/main/rack","accept-encoding":"gzip, deflate","accept-language":"zh-CN,zh;q=0.9"}}
+    error: 
+    TypeError: Cannot read property 'searchValue' of undefined
+    at autoComplete (D:\dobetter\github\andorid\nodejs\src\controllers\reader\search.js:25:87)
+    at dispatch (D:\dobetter\github\andorid\nodejs\node_modules\koa-compose\index.js:44:32)
+    at next (D:\dobetter\github\andorid\nodejs\node_modules\koa-compose\index.js:45:18)
+    at D:\dobetter\github\andorid\nodejs\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (D:\dobetter\github\andorid\nodejs\node_modules\koa-compose\index.js:44:32)
+    at D:\dobetter\github\andorid\nodejs\node_modules\koa-compose\index.js:36:12
+    at dispatch (D:\dobetter\github\andorid\nodejs\node_modules\koa-router\lib\router.js:351:31)
+    at dispatch (D:\dobetter\github\andorid\nodejs\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at dispatch (D:\dobetter\github\andorid\nodejs\node_modules\koa-router\lib\router.js:332:32)
+    at dispatch (D:\dobetter\github\andorid\nodejs\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at dispatch (D:\dobetter\github\andorid\nodejs\node_modules\koa-router\lib\router.js:332:32)
+    at dispatch (D:\dobetter\github\andorid\nodejs\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at dispatch (D:\dobetter\github\andorid\nodejs\node_modules\koa-router\lib\router.js:332:32)
+    at dispatch (D:\dobetter\github\andorid\nodejs\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at dispatch (D:\dobetter\github\andorid\nodejs\node_modules\koa-router\lib\router.js:332:32)
+    at dispatch (D:\dobetter\github\andorid\nodejs\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+
+    
+  
+    2018-11-30 22:25:35:
+    method: GET
+    url: /reader/autocomplete?query=%u4E00ni
+    host: 192.168.70.1:3000
+    connection: keep-alive
+    cookie: undefined
+    accept: application/json, text/plain, */*
+    response: {"status":404,"message":"Not Found","header":{"vary":"Origin","access-control-allow-origin":"*","access-control-expose-headers":"WWW-Authenticate,Server-Authorization"}}
+    request: {"method":"GET","url":"/reader/autocomplete?query=%u4E00ni","header":{"host":"192.168.70.1:3000","connection":"keep-alive","accept":"application/json, text/plain, */*","origin":"http://192.168.70.1:4200","user-agent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Mobile Safari/537.36","referer":"http://192.168.70.1:4200/main/rack","accept-encoding":"gzip, deflate","accept-language":"zh-CN,zh;q=0.9"}}
+    error: 
+    TypeError: Cannot read property 'searchValue' of undefined
+    at autoComplete (D:\dobetter\github\andorid\nodejs\src\controllers\reader\search.js:25:87)
+    at dispatch (D:\dobetter\github\andorid\nodejs\node_modules\koa-compose\index.js:44:32)
+    at next (D:\dobetter\github\andorid\nodejs\node_modules\koa-compose\index.js:45:18)
+    at D:\dobetter\github\andorid\nodejs\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (D:\dobetter\github\andorid\nodejs\node_modules\koa-compose\index.js:44:32)
+    at D:\dobetter\github\andorid\nodejs\node_modules\koa-compose\index.js:36:12
+    at dispatch (D:\dobetter\github\andorid\nodejs\node_modules\koa-router\lib\router.js:351:31)
+    at dispatch (D:\dobetter\github\andorid\nodejs\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at dispatch (D:\dobetter\github\andorid\nodejs\node_modules\koa-router\lib\router.js:332:32)
+    at dispatch (D:\dobetter\github\andorid\nodejs\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at dispatch (D:\dobetter\github\andorid\nodejs\node_modules\koa-router\lib\router.js:332:32)
+    at dispatch (D:\dobetter\github\andorid\nodejs\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at dispatch (D:\dobetter\github\andorid\nodejs\node_modules\koa-router\lib\router.js:332:32)
+    at dispatch (D:\dobetter\github\andorid\nodejs\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at dispatch (D:\dobetter\github\andorid\nodejs\node_modules\koa-router\lib\router.js:332:32)
+    at dispatch (D:\dobetter\github\andorid\nodejs\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+
+    
+  
+    2018-11-30 22:25:35:
+    method: GET
+    url: /reader/autocomplete?query=%u4E00nia
+    host: 192.168.70.1:3000
+    connection: keep-alive
+    cookie: undefined
+    accept: application/json, text/plain, */*
+    response: {"status":404,"message":"Not Found","header":{"vary":"Origin","access-control-allow-origin":"*","access-control-expose-headers":"WWW-Authenticate,Server-Authorization"}}
+    request: {"method":"GET","url":"/reader/autocomplete?query=%u4E00nia","header":{"host":"192.168.70.1:3000","connection":"keep-alive","accept":"application/json, text/plain, */*","origin":"http://192.168.70.1:4200","user-agent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Mobile Safari/537.36","referer":"http://192.168.70.1:4200/main/rack","accept-encoding":"gzip, deflate","accept-language":"zh-CN,zh;q=0.9"}}
+    error: 
+    TypeError: Cannot read property 'searchValue' of undefined
+    at autoComplete (D:\dobetter\github\andorid\nodejs\src\controllers\reader\search.js:25:87)
+    at dispatch (D:\dobetter\github\andorid\nodejs\node_modules\koa-compose\index.js:44:32)
+    at next (D:\dobetter\github\andorid\nodejs\node_modules\koa-compose\index.js:45:18)
+    at D:\dobetter\github\andorid\nodejs\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (D:\dobetter\github\andorid\nodejs\node_modules\koa-compose\index.js:44:32)
+    at D:\dobetter\github\andorid\nodejs\node_modules\koa-compose\index.js:36:12
+    at dispatch (D:\dobetter\github\andorid\nodejs\node_modules\koa-router\lib\router.js:351:31)
+    at dispatch (D:\dobetter\github\andorid\nodejs\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at dispatch (D:\dobetter\github\andorid\nodejs\node_modules\koa-router\lib\router.js:332:32)
+    at dispatch (D:\dobetter\github\andorid\nodejs\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at dispatch (D:\dobetter\github\andorid\nodejs\node_modules\koa-router\lib\router.js:332:32)
+    at dispatch (D:\dobetter\github\andorid\nodejs\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at dispatch (D:\dobetter\github\andorid\nodejs\node_modules\koa-router\lib\router.js:332:32)
+    at dispatch (D:\dobetter\github\andorid\nodejs\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at dispatch (D:\dobetter\github\andorid\nodejs\node_modules\koa-router\lib\router.js:332:32)
+    at dispatch (D:\dobetter\github\andorid\nodejs\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+
+    
+  
+    2018-11-30 22:25:35:
+    method: GET
+    url: /reader/autocomplete?query=%u4E00nian
+    host: 192.168.70.1:3000
+    connection: keep-alive
+    cookie: undefined
+    accept: application/json, text/plain, */*
+    response: {"status":404,"message":"Not Found","header":{"vary":"Origin","access-control-allow-origin":"*","access-control-expose-headers":"WWW-Authenticate,Server-Authorization"}}
+    request: {"method":"GET","url":"/reader/autocomplete?query=%u4E00nian","header":{"host":"192.168.70.1:3000","connection":"keep-alive","accept":"application/json, text/plain, */*","origin":"http://192.168.70.1:4200","user-agent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Mobile Safari/537.36","referer":"http://192.168.70.1:4200/main/rack","accept-encoding":"gzip, deflate","accept-language":"zh-CN,zh;q=0.9"}}
+    error: 
+    TypeError: Cannot read property 'searchValue' of undefined
+    at autoComplete (D:\dobetter\github\andorid\nodejs\src\controllers\reader\search.js:25:87)
+    at dispatch (D:\dobetter\github\andorid\nodejs\node_modules\koa-compose\index.js:44:32)
+    at next (D:\dobetter\github\andorid\nodejs\node_modules\koa-compose\index.js:45:18)
+    at D:\dobetter\github\andorid\nodejs\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (D:\dobetter\github\andorid\nodejs\node_modules\koa-compose\index.js:44:32)
+    at D:\dobetter\github\andorid\nodejs\node_modules\koa-compose\index.js:36:12
+    at dispatch (D:\dobetter\github\andorid\nodejs\node_modules\koa-router\lib\router.js:351:31)
+    at dispatch (D:\dobetter\github\andorid\nodejs\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at dispatch (D:\dobetter\github\andorid\nodejs\node_modules\koa-router\lib\router.js:332:32)
+    at dispatch (D:\dobetter\github\andorid\nodejs\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at dispatch (D:\dobetter\github\andorid\nodejs\node_modules\koa-router\lib\router.js:332:32)
+    at dispatch (D:\dobetter\github\andorid\nodejs\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at dispatch (D:\dobetter\github\andorid\nodejs\node_modules\koa-router\lib\router.js:332:32)
+    at dispatch (D:\dobetter\github\andorid\nodejs\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at dispatch (D:\dobetter\github\andorid\nodejs\node_modules\koa-router\lib\router.js:332:32)
+    at dispatch (D:\dobetter\github\andorid\nodejs\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+
+    
+  
+    2018-11-30 22:25:35:
+    method: GET
+    url: /reader/autocomplete?query=%u4E00%u5FF5
+    host: 192.168.70.1:3000
+    connection: keep-alive
+    cookie: undefined
+    accept: application/json, text/plain, */*
+    response: {"status":404,"message":"Not Found","header":{"vary":"Origin","access-control-allow-origin":"*","access-control-expose-headers":"WWW-Authenticate,Server-Authorization"}}
+    request: {"method":"GET","url":"/reader/autocomplete?query=%u4E00%u5FF5","header":{"host":"192.168.70.1:3000","connection":"keep-alive","accept":"application/json, text/plain, */*","origin":"http://192.168.70.1:4200","user-agent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Mobile Safari/537.36","referer":"http://192.168.70.1:4200/main/rack","accept-encoding":"gzip, deflate","accept-language":"zh-CN,zh;q=0.9"}}
+    error: 
+    TypeError: Cannot read property 'searchValue' of undefined
+    at autoComplete (D:\dobetter\github\andorid\nodejs\src\controllers\reader\search.js:25:87)
+    at dispatch (D:\dobetter\github\andorid\nodejs\node_modules\koa-compose\index.js:44:32)
+    at next (D:\dobetter\github\andorid\nodejs\node_modules\koa-compose\index.js:45:18)
+    at D:\dobetter\github\andorid\nodejs\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (D:\dobetter\github\andorid\nodejs\node_modules\koa-compose\index.js:44:32)
+    at D:\dobetter\github\andorid\nodejs\node_modules\koa-compose\index.js:36:12
+    at dispatch (D:\dobetter\github\andorid\nodejs\node_modules\koa-router\lib\router.js:351:31)
+    at dispatch (D:\dobetter\github\andorid\nodejs\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at dispatch (D:\dobetter\github\andorid\nodejs\node_modules\koa-router\lib\router.js:332:32)
+    at dispatch (D:\dobetter\github\andorid\nodejs\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at dispatch (D:\dobetter\github\andorid\nodejs\node_modules\koa-router\lib\router.js:332:32)
+    at dispatch (D:\dobetter\github\andorid\nodejs\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at dispatch (D:\dobetter\github\andorid\nodejs\node_modules\koa-router\lib\router.js:332:32)
+    at dispatch (D:\dobetter\github\andorid\nodejs\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at dispatch (D:\dobetter\github\andorid\nodejs\node_modules\koa-router\lib\router.js:332:32)
+    at dispatch (D:\dobetter\github\andorid\nodejs\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+
+    
+  
